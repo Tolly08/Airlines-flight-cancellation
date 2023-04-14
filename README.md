@@ -10,7 +10,6 @@ The goal of this project is to analyze
 - the flight trends by months and day of the week. 
 - the percentage of flights that experienced departure delay in 2015.
 - variation of delayed flight per month
-- 
 - total number of flights cancelled in 2015
 - % of cancellation due to weather and % due to airline/carrier
 - the most and least reliable airline in terms of on-time departure
@@ -32,7 +31,7 @@ After the dataset was analysed throughly, the following insights were generated
  - 90k flights were cancelled, 54% of the cancellation reasons were caused by weather followed by airlines/carrier. 
  - Southwest airlines has the highest cancelled flight of 16k and hawaiian has the least of 0.2K 
  - For departure time, we have early, late and on-time departure.Early departure has the highest number(3.3M), which means majority of flight were early departure and On-time has the least(0.4M)
- ![](Screenshort (116).png
+ ![](Screenshort (116)).png ![](screenshot (117)).png
  # Dashboard Report 
  Here is a link to my Dashboard report
 
