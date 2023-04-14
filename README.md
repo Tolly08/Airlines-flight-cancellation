@@ -31,7 +31,7 @@ After the dataset was analysed throughly, the following insights were generated
  - 90k flights were cancelled, 54% of the cancellation reasons were caused by weather followed by airlines/carrier. 
  - Southwest airlines has the highest cancelled flight of 16k and hawaiian has the least of 0.2K 
  - For departure time, we have early, late and on-time departure.Early departure has the highest number(3.3M), which means majority of flight were early departure and On-time has the least(0.4M)
- ![](Screenshot(116)).jpg ![](screenshot(117)).jpg
+ ![](Screenshot (116)).jpg ![](screenshot (117)).jpg
  # Dashboard Report 
  Here is a link to my Dashboard report
 
