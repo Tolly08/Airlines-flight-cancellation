@@ -35,5 +35,5 @@ After the dataset was analysed throughly, the following insights were generated
  
  ![](Screenshot.png)  ![](Screenshot2.png)  ![](Screenshot3.png)   ![](Screenshot4.png)
  # Dashboard Report 
- Here is a link to my Dashboard report
+ Here is a link to my Dashboard report.
 
