@@ -26,5 +26,11 @@ The following Power BI features were incorporated
 
 After the dataset was analysed throughly, the following insights were generated
  - July has the highest flight of 0.52M and Febuary has the least flight of 0.43M for the year
- - for the days of the week, thursday has the highest flight of 873k and sat
+ - for the days of the week, thursday has the highest flight of 873k and saturday has the least number of flight
+ - 36.5% of the total flights was delayed. United airlines has the most delayed flights of 50% and Alaska airlines has the least of 25% making it the most      reliable airline in terms of delayed flight
+ - Airlines experience most delay in the month of June and major causes of delay was late aircraft
+ - 90k flights were cancelled, 54% of the cancellation reasons were caused by weather followed by airlines/carrier. 
+ - Southwest airlines has the highest cancelled flight of 16k and hawaiian has the least of 0.2K 
+ - For departure time, we have early, late and on-time departure.Early departure has the highest number(3.3M), which means majority of flight were early departure and On-time has the least(0.4M)
+ # Dashboard Report
 
