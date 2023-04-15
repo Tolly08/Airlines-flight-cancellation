@@ -4,7 +4,7 @@
 
 # Dataset Overview
 This is a power BI project on **Airlines flight delay and cancellation**. The dataset contains commercial airline flight data in 2015, compiled for U.S. DOT Air Travel customer report that was provided by Quantum analytics.
-The dataset consists of 4 workbooks which are airport which contains the airports names, airlines(contains the airlines name),cancellation(contains reasons for cancellation) and flight.The flight workbook contains 5,000,000+ rows and 36 columns. Some of these columns include Airlines, flight number, tail number, origin airport, destination airport, scheduled departure, departure time, departure delay, scheduled time, air time, elapsed time, diverted, cancelled e .t. c
+The dataset consists of 4 workbooks including Airport which contains the airports names, Airlines (contains the airlines name),Cancellation (contains reasons for cancellation) and Flight.The flight workbook contains 5,000,000+ rows and 36 columns. Some of these columns include Airlines, flight number, tail number, origin airport, destination airport, scheduled departure, departure time, departure delay, scheduled time, air time, elapsed time, diverted, cancelled e .t. c
 
 The goal of this project is to analyze 
 - the flight trends by months and day of the week. 
@@ -20,6 +20,7 @@ The following Power BI features were incorporated
 - conditional formatting columns(to input the airport name)
 - DAX
 - filters
+- Analyzed and Visualized
 
 # Summary of Findings
 
